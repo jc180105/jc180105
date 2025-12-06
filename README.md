@@ -8,7 +8,7 @@ I am currently in the third semester of a Systems Analysis and Development degre
 
 * 🌍  I'm based in Santa Catarina - Florianópolis
 * ✉️  You can contact me at [pedrohjc180@gmail.com](mailto:pedrohjc180@gmail.com)
-* 🧠  I'm learning ArchLinux / React
+* 🧠  I'm learning N8N Automations
 * 🤝  I'm open to collaborating on Projeto Elo Senior
 
 ### Skills
