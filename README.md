@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a fullstack developer
 -------------------------
 
-I am currently in the third semester of a Systems Analysis and Development degree. I am communicative, proactive, and a strong team player. I am fluent in English, have intermediate French skills, and international experience in computer maintenance and formatting. I am looking for opportunities to apply and expand my knowledge in the technology field, contributing with creative and effective solutions.
+I am currently in the last semester of a Systems Analysis and Development degree. I am communicative, proactive, and a strong team player. I am fluent in English, have intermediate French skills, and international experience in computer maintenance and formatting. I am looking for opportunities to apply and expand my knowledge in the technology field, contributing with creative and effective solutions.
 
 * 🌍  I'm based in Santa Catarina - Florianópolis
 * ✉️  You can contact me at [pedrohjc180@gmail.com](mailto:pedrohjc180@gmail.com)
